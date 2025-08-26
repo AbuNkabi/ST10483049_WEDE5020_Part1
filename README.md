@@ -1,2 +1,28 @@
-# ST10483049_WEDE5020_Part1
+REFERENCE PAGE
+http://academic.sun.ac.za/history/downloads/ehlers/peptonic.pdf [assessed on 12  August 2025]
+
+
+
+https://www.pepstores.com/pages/corporate-social-investment [assessed on 12 August 2025]
+
+
+
+Nielsen, J. and Budiu, R., 2012. Mobile Usability. Berkeley: New Riders.
+
+
+
+Krug, S., 2014. Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed. Berkeley: New Riders.
+
+
+
+W3C, 2023. Web Content Accessibility Guidelines (WCAG) 2.1. [online] Available at: https://www.w3.org/TR/WCAG21/ [Accessed 17 August 2025].
+
+
+
+Interaction Design Foundation, 2023. What is User Experience (UX) Design?. [online] Available at: https://www.interaction-design.org/literature/topics/ux-design [Accessed 17 August 2025].
+
+
+
+PEP Stores, 2023. About Us. [online] Available at: https://www.pepstores.com/about-pep [Accessed 17 August 2025].
+
  
