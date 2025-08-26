@@ -1,3 +1,27 @@
+
+In Part 1 of my assignment, I developed a Word proposal focusing on Pep Stores. The proposal was structured in a professional format, and I created a hierarchy to illustrate the organization of the included pages. This hierarchy provided a clear outline of the document’s sections and demonstrated the logical flow of information within the proposal. I also included images for visuals and better advertisment of the company outlining their services and how they can grow as a company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 REFERENCE PAGE
 http://academic.sun.ac.za/history/downloads/ehlers/peptonic.pdf [assessed on 12  August 2025]
 
