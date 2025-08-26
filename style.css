@@ -1,0 +1,43 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: #f8f9fa;
+    color: #333;
+  }
+  
+  /* Navbar */
+  nav {
+    background: #222;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #ffcc00;
+  }
+  
+  /* Content */
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+  }
+  
